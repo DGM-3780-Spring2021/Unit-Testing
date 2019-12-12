@@ -9,3 +9,5 @@
 - Simple Function file that exports
 - Setup?
 - Jest
+- Sum all numbers
+- Callback function
