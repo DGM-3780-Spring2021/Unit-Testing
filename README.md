@@ -26,3 +26,5 @@ For each of the following items:
  ## Tips
  - When writing tests, try to think of edge cases for your functions and test for those cases as well as expected behavior.
  - Writing tests is an art, you need to write enough to cover the use of the function, but not too much that you spend too much time writing tests.
+ - Tests can be written using a framework (Jest recommended) or with vanilla JS.
+- Functions and Tests can be written in the same file, or for sanity, you can opt to split them into modules.
