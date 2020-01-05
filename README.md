@@ -18,7 +18,7 @@ For each of the following items:
   - A function that uppercases a string.
   - A function that removes all vowels.
 - Object validator
- - Write a function that accepts 2 parameters. One is an object, the second is a string. The function should validate that the string is a key of the object.
+  - Write a function that accepts 2 parameters. One is an object, the second is a string. The function should validate that the string is a key of the object.
 - Numbers
   - A function that takes an array of numbers, and adds up all the numbers in the array and outputs the total. ( [1,2,3] would output: 6)
  
