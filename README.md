@@ -6,6 +6,7 @@ For this assignment, we will be learning about Test Drivin Development (TDD). Wh
 For each of the following items:
 1. Write test(s) for the functions. Commit
 2. Write functions to pass the test(s) Commit.
+3. Ensure the command `npm test` runs the tests.
 
 ### Items to complete
 - Fizzbuzz
